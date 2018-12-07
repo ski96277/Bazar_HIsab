@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">বাজার হিসাব</string>
+
+
+    <string name="bazar_hisab_TV">প্রতিদিনের বাজার হিসাব</string>
+    <string name="item_TV">আইটেম :</string>
+    <string name="poriman_TV">পরিমাণ :</string>
+    <string name="price_TV">মূল্য :</string>
+    <string name="seeAllList_TV">সব লিস্ট দেখুন</string>
+    <string name="edit_btn">ইডিট করুন</string>
+    <string name="save_btn">সেভ করুন</string>
+    <string name="taka_text">টাকা</string>
+
+    <array name="list">
+        <item>কেজি</item>
+        <item>গ্রাম</item>
+        <item>টি</item>
+    </array>
+</resources>
